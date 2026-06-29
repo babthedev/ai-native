@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "artifact_type": "decision",
+    "created_at": "ISO 8601 timestamp",
+    "created_by": "founder_name",
+    "version": "1.0",
+    "notion_page_id": "",
+    "github_path": "agent-docs/DECISIONS.md"
+  },
+  "_content": {
+    "title": "",
+    "date": "YYYY-MM-DD",
+    "decision": "",
+    "context": "",
+    "options_considered": [],
+    "rationale": "",
+    "owner": "",
+    "reversibility": "reversible | costly-to-reverse | irreversible",
+    "review_date": "YYYY-MM-DD or null"
+  },
+  "_links": {
+    "related_decisions": [],
+    "related_roadmap_items": [],
+    "related_transcripts": []
+  },
+  "_agent_summary": ""
+}
